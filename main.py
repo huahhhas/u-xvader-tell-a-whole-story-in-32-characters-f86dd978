@@ -2,9 +2,9 @@
 """Tell a Whole Story in 32 Characters.
 
 Draft:   "Dad changed the password again" (30 chars)
-Revised: "Mom's WiFi, Dad's new girlfriend" (32 chars) — the divorce in one
-Wi-Fi name: Mum kept the router, Dad moved on, and the network list is where
-the whole family story now lives.
+Final: "She kept the house, he kept WiFi" (32 chars) — the divorce settlement
+in one line: she got the house, he walked away with the router, and the
+network list is the only place the split is still announced.
 """
 
-print("Mom's WiFi, Dad's new girlfriend")
+print("She kept the house, he kept WiFi")
